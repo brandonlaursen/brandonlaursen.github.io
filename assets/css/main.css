@@ -3943,3 +3943,7 @@ input, select, textarea {
 .learn{
 	margin-bottom: 1rem;
 }
+
+.bio{
+	padding: 1rem;
+}
